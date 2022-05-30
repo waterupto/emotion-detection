@@ -53,6 +53,10 @@ python emotions.py --mode display
 
 * The emotion with maximum score is displayed on the screen.
 
+## Accuracy Plot 
+![Accuracy plot](/home/waterupto/Downloads/accuracy.png)
+
+
 ## References
 
 *"Deep-Emotion: Facial Expression Recognition Using Attentional Convolutional Network." Shervin Minaee, Amirali Abdolrashidi - University of California, Riverside*
