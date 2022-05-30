@@ -18,8 +18,6 @@ git clone https://github.com/waterupto/emotion-detection.git
 cd Emotion-detection
 ```
 
-* Download the FER-2013 dataset from [here](https://drive.google.com/file/d/1X60B-uR3NtqPd4oosdotpbDgy8KOfUdr/view?usp=sharing) and unzip it inside the `src` folder. This will create the folder `data`.
-
 * If you want to train this model, use:  
 
 ```bash
@@ -54,7 +52,7 @@ python emotions.py --mode display
 * The emotion with maximum score is displayed on the screen.
 
 ## Accuracy Plot 
-![Accuracy plot](/home/waterupto/Downloads/accuracy.png)
+![Accuracy plot](/accuracy.png)
 
 
 ## References
