@@ -55,5 +55,4 @@ python emotions.py --mode display
 
 ## References
 
-*"Deep-Emotion: Facial Expression Recognition Using Attentional Convolutional Network." Shervin Minaee
-Amirali Abdolrashidi - University of California, Riverside*
+*"Deep-Emotion: Facial Expression Recognition Using Attentional Convolutional Network." Shervin Minaee, Amirali Abdolrashidi - University of California, Riverside*
